@@ -1,4 +1,4 @@
-# dev theme
+# dev syntax
 
 A dev syntax theme for Atom.
 ---
