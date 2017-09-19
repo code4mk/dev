@@ -1,9 +1,14 @@
 {
   "name": "dev",
   "theme": "syntax",
+  "keywords": [
+    "dark",
+    "syntax",
+    "devtheme"
+  ],
   "version": "0.4.0",
   "private": true,
-  "description": "A dev theme",
+  "description": "A dev theme syntax",
   "repository": "https://github.com/code4mk/dev",
   "license": "MIT",
   "engines": {
